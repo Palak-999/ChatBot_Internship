@@ -1,4 +1,4 @@
-🤖 ChatBot Internship Project
+## 🤖 ChatBot Internship Project
 
 `https://img.shields.io/badge/build-passing-brightgreen`  
 `https://img.shields.io/badge/python-3.10-blue`  
@@ -6,13 +6,13 @@
 
 
 
-📌 Project Overview
+## 📌 Project Overview
 This project was developed during a **Machine Learning Summer Internship** and focuses on building a **ChatBot application**.  
 The chatbot leverages machine learning and natural language processing (NLP) techniques to interact with users, answer queries, and provide intelligent responses.
 
 
 
-✨ Key Features
+## ✨ Key Features
 - 💬 Interactive chatbot built with **Python**  
 - ⚙️ Backend logic implemented in `app.py`  
 - 🔑 Secure environment variables managed via `.env`  
@@ -21,12 +21,12 @@ The chatbot leverages machine learning and natural language processing (NLP) tec
 
 
 
-🔑 Concepts Explained
+## 🔑 Concepts Explained
 
-🔹 ChatBot
+## 🔹 ChatBot
 A chatbot is an AI-powered application designed to simulate human conversation. It can be rule-based (predefined responses) or ML-based (learns from data).
 
-🔹 Internship Focus
+## 🔹 Internship Focus
 This project demonstrates:
 - Text preprocessing and intent recognition  
 - Response generation using ML/NLP techniques  
@@ -34,7 +34,7 @@ This project demonstrates:
 
 
 
-📂 Project Structure
+## 📂 Project Structure
 ```plaintext
 ChatBot_Internship
 │
@@ -46,7 +46,7 @@ ChatBot_Internship
 
 
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 | Technology        | Purpose                                |
 |-------------------|----------------------------------------|
@@ -58,7 +58,7 @@ ChatBot_Internship
 
 
 
-▶️ How to Run Locally
+## ▶️ How to Run Locally
 ```bash
 # 1. Clone the repository
 git clone https://github.com/Palak-999/ChatBot_Internship.git
@@ -77,7 +77,7 @@ python app.py
 ```
 
 
-🌟 Benefits
+## 🌟 Benefits
 - Hands-on experience with **chatbot development**  
 - Practical knowledge of **NLP and ML integration**  
 - Understanding of **environment management** with `.env`  
@@ -89,7 +89,7 @@ python app.py
 
 
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 - 🧪 Add advanced NLP models (Transformers, BERT, GPT)  
 - 🌐 Deploy chatbot as a web service (Heroku, AWS, Azure)  
 - 📱 Build a frontend interface for user interaction  
