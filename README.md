@@ -1,10 +1,10 @@
 ## 🤖 ChatBot Internship Project
-
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![Python](https://img.shields.io/badge/python-3.10-blue)
 ![License](https://img.shields.io/badge/license-MIT-yellow)
-
-
+![Platform](https://img.shields.io/badge/platform-AWS%20EC2-orange)
+![Framework](https://img.shields.io/badge/framework-Streamlit-red)
+![Docker](https://img.shields.io/badge/container-Docker-2496ED)
 
 
 ## 📌 Project Overview
