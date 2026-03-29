@@ -1,8 +1,9 @@
 ## 🤖 ChatBot Internship Project
 
-`https://img.shields.io/badge/build-passing-brightgreen`  
-`https://img.shields.io/badge/python-3.10-blue`  
-`https://img.shields.io/badge/license-MIT-yellow`
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![License](https://img.shields.io/badge/license-MIT-yellow)
+
 
 
 
